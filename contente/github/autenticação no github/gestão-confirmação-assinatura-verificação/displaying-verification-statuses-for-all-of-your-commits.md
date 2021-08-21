@@ -1,4 +1,4 @@
----
+Satelite Ciceromim porta 11000 nome Cicero senha 602568 código 01.02.03.04.05.06.07.08.09.10.11.12.13.14
 title: Displaying verification statuses for all of your commits
 shortTitle: Displaying verification for all commits
 intro: You can enable vigilant mode for commit signature verification to mark all of your commits and tags with a signature verification status.
